@@ -6,7 +6,7 @@ Languages I am very experienced with:
 
 Tools I am very experienced with:  
 
-[![My Skills](https://skillicons.dev/icons?i=gradle,docker,git,github,ktor,nginx,idea,gitlab,git,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle,docker,github,ktor,nginx,idea,gitlab,git,androidstudio)](https://skillicons.dev)
 
 Languages, I am able to use, but are not my primary focus and so am not familiar with many language-specific features/libraries:  
 
